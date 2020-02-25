@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/txtWinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Name Of Winning Team"
